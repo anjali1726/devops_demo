@@ -1,2 +1,2 @@
 # devops_demo
-check my knowledge 
+ this repo is created for demonistartion of devops demo activities
